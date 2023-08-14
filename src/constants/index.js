@@ -129,6 +129,19 @@ import {
       ],
     },
     {
+      title: "Project-Expo WINNER!",
+      company_name: "Electro-Tec",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "June 2022",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    {
       title: "NPTEL-Data Science",
       company_name: "IIT-Bombay",
       icon: tesla,
@@ -154,19 +167,7 @@ import {
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
-    {
-      title: "Project-Expo WINNER!",
-      company_name: "Electro-Tec",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "June 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+
   ];
   
   const testimonials = [
