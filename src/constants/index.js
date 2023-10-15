@@ -236,7 +236,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sagarsonale/facial_emotion_and_recognition_CNN.git/",
     },
     {
       name: "Tech-Event Wed design",
