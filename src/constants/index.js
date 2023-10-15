@@ -122,10 +122,10 @@ import {
       iconBg: "#383E56",
       date: "May 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Its is an project expo competition conducted by the student branch of IEEE SSIT.",
+        "I buit a Line Following and Obstical Avoidence robot for this compitation and participated in it .",
+        "They were more than 10 Students.",
+        ,
       ],
     },
     {
@@ -135,10 +135,9 @@ import {
       iconBg: "#E6DEDD",
       date: "June 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Its is an project expo competition conducted by Electronics and communication Dept.",
+        "I buit a Line Following and Obstical Avoidence robot for this compitation and participated in it .",
+        "They were more than 20 Students.",
       ],
     },
     {
@@ -148,10 +147,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Oct 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Nptel is an  is a joint venture of the IITs and IISc, funded by the Ministry of Education (MoE) Government of India, and was launched in 2003.",
+        "I Took data sceince course in Nptel .",
+        "I wrote exam which was in offline mode.",
+      
       ],
     },
     {
@@ -161,10 +160,9 @@ import {
       iconBg: "#383E56",
       date: "May 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Its is an Web Design competition conducted by the student branch of IEEE SSIT.",
+        "I buit a Line Following and Obstical Avoidence robot for this compitation and participated in it .",
+        "They were more than 5 Students.",
       ],
     },
 
@@ -199,30 +197,30 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Line Following And Obstical Avoid Robot",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A Car Robot Which Follows The Black Line And Avoid The Objects which interupt While Following The Line.",
       tags: [
         {
-          name: "react",
+          name: "robot",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Iot",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Arduino Uno",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "G:/programming/portfolio/src/assets/tech/robot",
     },
     {
-      name: "Job IT",
+      name: "Facial Emotion Detection And Recognition",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Facial emotion detection using deep learning, for creating psychological profile of patients in healthcare.",
       tags: [
         {
           name: "react",
@@ -238,12 +236,12 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sagarsonale/facial_emotion_and_recognition_CNN.git/",
     },
     {
-      name: "Trip Guide",
+      name: "Tech-Event Wed design",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        " reactive Web Site for Samarthya 2023 event IEEE Student Branch SSIT Where students can get details about event and register to that event.",
       tags: [
         {
           name: "nextjs",
